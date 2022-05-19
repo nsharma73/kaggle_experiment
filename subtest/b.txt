@@ -1,0 +1,1 @@
+This is the b.txt file and Git is still good
